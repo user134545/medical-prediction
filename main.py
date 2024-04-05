@@ -11,7 +11,7 @@ from sklearn.naive_bayes import GaussianNB
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, confusion_matrix
 
-DATA_PATH = r""
+DATA_PATH = r"your data  path"
 data = pd.read_csv(DATA_PATH).dropna(axis=1)
 
 encoder = LabelEncoder()
