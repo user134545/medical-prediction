@@ -1,1 +1,2 @@
 # medical-prediction1
+In view of the need for rapid disease diagnosis in the medical field, I used ChatGPT to conduct in-depth learning of machine learning. A system is designed that can infer specific diseases from the disease symptoms described by users. At present, the society has successfully called and integrated the ChatGPT API, enabling real-time interaction with users and providing instant disease advice.
